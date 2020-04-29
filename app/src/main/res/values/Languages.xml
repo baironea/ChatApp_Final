@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="languages_list">
+        <item>Lenguage Select</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Italiano</item>
+        <item>Português</item>
+        <item>普通话</item>
+        <item>Pусский</item>
+        <item>اللغة العربية</item>
+        <item>日本語</item>
+        <item>한국어</item>
+    </string-array>
+</resources>

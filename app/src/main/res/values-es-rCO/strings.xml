@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="create_a_new_account">Crear Nueva Cuenta</string>
+    <string name="register">Registrarce</string>
+    <string name="login">Ingresar</string>
+    <string name="login_button">Ingresar</string>
+    <string name="forgot_you_password">¿Olvidaste tu Contraseña?</string>
+    <string name="your_email">Correo Registrado</string>
+    <string name="reset">Restaurar Contraseña</string>
+    <string name="by_clicking_reset_you_will_receive_an_email_to_reset_you_password">Oprime en Restaurar Contraseña para re establecer tu contraseña</string>
+    <string name="chat_app">Chat App</string>
+    <string name="login_initial">Ingresar</string>
+    <string name="register_initial">Registrarce</string>
+    <string name="hello">Hola</string>
+    <string name="hello_me">Holo</string>
+    <string name="profile">Perfil</string>
+    <string name="username_profile">Nombre de Usuario</string>
+    <string name="username_item">Foto de Usuario</string>
+    <string name="original">Original</string>
+</resources>

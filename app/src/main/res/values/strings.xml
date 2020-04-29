@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ChatApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+    <!--string name="email" tools:ignore="DuplicateDefinition">Email</string-->
+    <!--string name="password" tools:ignore="DuplicateDefinition">Password</string-->
+    <string name="login_button">login</string>
+    <string name="forgot_you_password">Forgot you password?</string>
+    <string name="your_email">Your Email</string>
+    <string name="reset">Reset</string>
+    <string name="by_clicking_reset_you_will_receive_an_email_to_reset_you_password">By clicking RESET, you will receive an email to reset you password</string>
+    <string name="chat_app">Chat App</string>
+    <string name="login_initial">login</string>
+    <string name="register_initial">register</string>
+    <string name="hello">hello</string>
+    <string name="hello_me">hello</string>
+    <string name="profile">Profile</string>
+    <string name="username_profile">username</string>
+    <string name="username_item">username</string>
+    <string name="original">Original</string>
+</resources>

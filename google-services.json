@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582293751695",
+    "firebase_url": "https://transapp-de2a9.firebaseio.com",
+    "project_id": "transapp-de2a9",
+    "storage_bucket": "transapp-de2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582293751695:android:681bfe44efbcf26996edfa",
+        "android_client_info": {
+          "package_name": "edu.usergioarboleda.transapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582293751695-ajim99h4u7amg615rcj3s1vhkg5lguhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Bvaxpi_0lqX_Qzpm_nxuprGu7LRhrEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582293751695-ajim99h4u7amg615rcj3s1vhkg5lguhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
